@@ -1,4 +1,4 @@
-# 18-847B: Modern Computer Systems (Spring 2022) 
+# 18-847B: Modern Computer Systems (Fall 2022) 
 
 ### Course information
 
