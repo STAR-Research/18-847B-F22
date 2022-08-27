@@ -7,19 +7,19 @@
 **Email Address:**  akshitha@cmu.edu  
 **Office Hours:**  Mondays, 3:30 - 4:30 pm ET 
 
-**Teaching Assistant:**  TBD <br/>
-**Email Address:**  TBD <br/>	
-**Office Hours:**	  Email to schedule a Zoom appointment. 	
+**Teaching Assistant:**  Balamurugan (Bala) Marimuthu <br/>
+**Email Address:**  bmarimut@andrew.cmu.edu <br/>	
+**Office Hours:**	  Email to schedule a Zoom appointment
 
 **Course Support:**  Academic Services Center <br/>
 **Office Location:**  HH 1113 <br/>
 **Website:**  https://www.ece.cmu.edu/academics/academic-services-center.html
 
-**Course Description:**  Modern computing systems support a wide range of hyperscale online services such as cloud computing, social networks, video streaming, online messaging, web search, and online banking. This course will focus on studying the systems software, hardware, and distributed systems technology that compose modern data center computing systems. The course will also expose students to cross-cutting data center issues related to service level objectives, latency unpredictability, total cost of ownership, energy efficiency, scalability, sustainability, and equity.
+**Course Description:**  Modern computing systems support a wide range of hyperscale web services such as cloud computing, social networks, video streaming, online messaging, web search, and online banking. This course will focus on studying the systems software, hardware, and distributed systems technology that compose modern data center computing systems. The course will also expose students to cross-cutting data center problems related to service level objectives, latency unpredictability, total cost of ownership, energy efficiency, scalability, sustainability, and equity.
 
-The course is a combination of lectures, paper reading, in-class presentations, and a semester-long project. Students will read up to two seminal papers per topic and submit brief summaries via [hotcrp](https://cmu-18-847-f22.hotcrp.com/). In the classroom, we will start with a student presentation of the papers followed by an interactive discussion on the papers in terms of design innovation and challenges. Students will work in groups of three on a semester-long, open-ended research project on a cutting-edge data center topic.
+The course is a combination of lectures, paper reading, in-class presentations, and a semester-long project. Students will read up to two seminal papers per topic and submit brief summaries via [hotcrp](https://cmu-18-847-f22.hotcrp.com/). In the classroom, we will have a student presentation of the papers accompanied by an interactive discussion on the papers in terms of design innovation and challenges. Students will work in groups of three on a semester-long, open-ended research project on a cutting-edge data center topic.
 
-This course is appropriate for graduate and advanced undergraduate students from ECE and CS who are interested in a vertical study of modern cloud computing and advanced data center systems. It is also appropriate for ECE and CS students who want to gain some experience with a semester-long research project on a cutting-edge modern computer systems topic.
+This course is appropriate for graduate and advanced undergraduate students from ECE and CS who are interested in a vertical study of modern cloud computing and advanced data center systems. It is also appropriate for ECE and CS students who want to gain some experience with a semester-long research project on a cutting-edge modern computer systems topic. This course is especially suited for students who are more interested in open-ended discussions, are interested in learning new concepts on-the-fly, and have a curiosity to explore the unknown. 
 
 Students are expected to attend class meetings and actively participate in the discussions. Paper summaries, presentations, and class participation are a significant part of the grade. There is no formal prerequisite for this course. However, it would be helpful if students have a basic understanding of systems and architecture concepts and are comfortable with C/C++ and/or Python programming.
 
@@ -30,7 +30,7 @@ However, it would be helpful if students have a basic understanding of systems a
 
 **Graduate Area:**  Computer Systems	
 
-**Class lecture and recordings:**  MW 4:40 - 6 pm ET at WEH 5302. Class lectures will not be recorded since we have moved to in-person teaching. 
+**Class lecture and recordings:**  MW 4:40 - 6 pm ET at WEH 5302. Class lectures will not be recorded since we have moved to in-person teaching. However, if you are unable to attend class for some reason, please let the professor know in advance; we are more than happy to accommodate your needs. 
 
 **Paper reviews:** https://cmu-18-847-f22.hotcrp.com/ (Create an account ASAP!)
 To submit a review after logging in, click on the paper you wish to review and follow the prompts to enter your review in terms of "strengths," "weaknesses," etc. The paper reviews allotted for each class are due on the day of the class by noon ET. Please submit your review exactly once. You may view other students' reviews after you submit your own review. Feel free to click on the "Good review" button for the reviews you like. Please refrain from clicking on the "Needs work" button for other students' reviews (you will be penalized for this).
@@ -74,14 +74,14 @@ Canvas login page: We will not use canvas for this course.
 **Reading Assignments:** We will read and review up to two research papers before each class. Each student will present two-three such papers during the course of the semester. 
 
 ### Grading Algorithm
-* **(35%) Course Project:** Students will work in teams of three on a research project related to improving the efficiency of data center systems. Deliverables will include a proposal, mid-term presentation, final presentation, and final research paper. This assignment will provide students with the experience of performing research in the field of large-scale computing.
-* **(30%) Paper Reviews:** We will be writing reviews for the papers that we read in this course. These reviews will help practice critical examination of research papers related to data center computing. Each student can skip a total of three reviews across the semester (choose wisely!). Each miss beyond three will result in 25% decrease in grade for this portion of the course (i.e., 5% out of the 20% alloted for the Paper Reviews component). Missing seven or more paper reviews will result in getting 0% out of the 20% possible for the Paper Reviews component. Reviews will be submitted through [hotCRP](https://cmu-18847-s22.hotcrp.com/). We will discuss the guidelines for writing reviews during the first couple of lectures.
+* **(35%) Course Project:** Students will work in teams of three on a research project on improving data center systems. Deliverables will include a proposal, mid-term presentation, final presentation, and final research paper. This assignment will provide students with the experience of performing research in the field of modern large-scale computing.
+* **(30%) Paper Reviews:** We will be writing reviews for the papers that we read in this course. These reviews will help practice critical examination of research papers related to data center computing. Each student can skip a total of three reviews across the semester (choose wisely!). Each miss beyond three will result in 25% decrease in grade for this portion of the course (i.e., 5% out of the 30% alloted for the Paper Reviews component). Missing eight or more paper reviews will result in getting 0% out of the 30% possible for the Paper Reviews component. Reviews will be submitted through [hotCRP](https://cmu-18-847-f22.hotcrp.com/). We will discuss the guidelines for writing reviews during the first couple of lectures.
 * **(15%) Paper Presentations:** Each student will be responsible for presenting and leading the discussion of two papers that we read this semester. Each student will be able to choose the papers that they present. We will discuss guidelines for presentations during the first couple of lectures.
 * **(20%) Participation:** Much of the discovery and learning in this course will be driven by in-class discussion. Participation will be assessed by engagement during in-class discussions. Therefore, it is critical that students attend lectures. 
 
 ### Project milestones
 
-* **(Jan 24/ASAP) Find project partners:** Create a group of three like-minded students
+* **(Sep 5/ASAP) Find project partners:** Create a group of three like-minded students
 * **(Jan 26) Contact instructors:** Email the instructors with your group's proposal (~2 paragraphs)
 * **(Feb 2) Finalize deliverables:** Finalize project deliverables after regular back-and-forth discussions with the instructors
 * **(March 2) First milestone:** Submit your first milestone document that defines and motivates the problem, surveys related work, forms initial hypothesis and idea, and potentially includes some preliminary result (email instructors)
@@ -93,13 +93,14 @@ Canvas login page: We will not use canvas for this course.
 
 * [The ECE Numbers cluster](https://userguide.its.cit.cmu.edu/research-computing/computer-clusters/): You will likely have to share these resources with other folks. If your project involves fine-grained performance measurements on real hardware, this might not be the best option since you might encounter intereference effects from co-runners.
 * [The ECE Data Science cloud](https://userguide.its.cit.cmu.edu/research-computing/computer-clusters/): You will likely have to share these resources with other folks. If your project involves fine-grained performance measurements on real hardware, this might not be the best option since you might encounter intereference effects from co-runners.
-* [CloudLab](https://www.cloudlab.us/): Please contact the instructor with your email addresses. The instructor will create a project on CloudLab for you and add you to the project. You will get dedicated access to machine using CloudLab and will therefore not encounter intereference effects. 
+* [CloudLab](https://www.cloudlab.us/): Please contact the instructor with your email addresses. The instructor will create a project on CloudLab for you and add you to the project. You will get dedicated access to machines using CloudLab and will therefore not encounter intereference effects. 
+* [Chameleon Cloud](https://www.chameleoncloud.org/): Please contact the instructor with your email addresses. The instructor will create a project on Chameleon Cloud for you and add you to the project. You will get dedicated access to machines using Chameleon Cloud and will therefore not encounter intereference effects.
 * [Pittsburgh Supercomputing center](https://www.psc.edu/): If you need substantial computing, we can do an education allocation at the Pittsburg Supercomputing Center. Here, we can get access to the Bridges and Bridges-DL machine with 60,000 CPU cores and about 80+ A100 GPUs. Of course you wouldn't use the entire machine, but you have flexibility.
 * [Google Cloud Platform](https://cloud.google.com/): Contact the instructor if you need access to GCP educational credits. If your project involves fine-grained performance measurements on real hardware, this might not be the best option since it might be harder to measure hardware performance counters, you might face interference effects from co-runners, might face overheads from virtualization, etc.
 * Please contact the instructor if none of the above computing options work for you. We will work with you to meet your needs as best as we can. 
 
 ### Schedule
-Please submit a review for all papers (from Jan 24) on hotcrp. Here is the review [template](https://gist.github.com/kasikci/49e7107dfdee281d6f6450b132555550) we will use.
+Please submit a review for all papers on [hotcrp](https://cmu-18-847-f22.hotcrp.com/). Here is the review [template](https://gist.github.com/kasikci/49e7107dfdee281d6f6450b132555550) we will use.
 
 | Date      | Topic | Readings | Notes | Presenter |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
