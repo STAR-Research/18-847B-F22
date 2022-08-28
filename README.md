@@ -41,27 +41,6 @@ To submit a review after logging in, click on the paper you wish to review and f
 
 **Other Supplemental Materials:**  Papers that will be shared through the course
 
-**Brief List of Topics Covered:**
-* Microservices
-* Architectural analysis of data center applications
-* Hardware acceleration
-* Compilation techniques to improve data center efficiency
-* Tail latency
-* The killer microsecond problem
-* Concurrency/threading
-* Operating systems for data center applications
-* Resource management and scheduling
-* Resource disaggregation
-* Networking in data centers
-* Data center caching
-* Monitoring infrastructure at scale
-* Data center systems for machine learning
-* Machine learning for data center systems
-* Serverless computing
-* Data center storage
-* Data center energy efficiency
-* Security
-
 **Course Canvas:** 
 Canvas login page: We will not use canvas for this course. 
 
