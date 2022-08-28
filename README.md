@@ -38,8 +38,7 @@ However, it would be helpful if students have a basic understanding of systems a
 
 **Other Supplemental Materials:**  Papers that will be shared through the course
 
-**Course Canvas:** 
-Canvas login page: We will not use canvas for this course. 
+**Course Canvas:** We will not use canvas for this course. 
 
 **Course Website:** You should check this website regularly for changes in schedule and other announcements.
 
