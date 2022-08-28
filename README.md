@@ -45,18 +45,31 @@ Canvas login page: We will not use canvas for this course.
 
 **Discussion Platform:**  Students enrolled in the course should have received a Slack invitation. Please contact the instructors via email if you did not receive an invite. 
 
-**Paper reviews:** https://cmu-18-847-f22.hotcrp.com/ (Create an account ASAP!)
-We will read and review up to two research papers before each class. Each student will present two-three such papers during the course of the semester. To submit a review after logging in, click on the paper you wish to review and follow the prompts to enter your review in terms of "strengths," "weaknesses," etc. Here is the review [template](https://gist.github.com/kasikci/49e7107dfdee281d6f6450b132555550) we will use. The paper reviews allotted for each class are due on the day of the class by noon ET. Please submit your review exactly once. You may view other students' reviews after you submit your own review. Feel free to click on the "Good review" button for the reviews you like. Please refrain from clicking on the "Needs work" button for other students' reviews (you will be penalized for this). For additional information, please check the FAQ section below. 
-
-**Projects:** Students will work in groups of three on a semester-long, open-ended research project on a cutting-edge data center topic. Larger/smaller groups will not be approved.   
-
-**Reading Assignments:** 
-
 ### Grading Algorithm
 * **(35%) Course Project:** Students will work in teams of three on a research project on improving data center systems. Deliverables will include a proposal, mid-term presentation, final presentation, and final research paper. This assignment will provide students with the experience of performing research in the field of modern large-scale computing.
 * **(30%) Paper Reviews:** We will be writing reviews for the papers that we read in this course. These reviews will help practice critical examination of research papers related to data center computing. Each student can skip a total of three reviews across the semester (choose wisely!). Each miss beyond three will result in 25% decrease in grade for this portion of the course (i.e., 5% out of the 30% alloted for the Paper Reviews component). Missing eight or more paper reviews will result in getting 0% out of the 30% possible for the Paper Reviews component. Reviews will be submitted through [hotCRP](https://cmu-18-847-f22.hotcrp.com/). We will discuss the guidelines for writing reviews during the first couple of lectures.
 * **(15%) Paper Presentations:** Each student will be responsible for presenting and leading the discussion of two papers that we read this semester. Each student will be able to choose the papers that they present. We will discuss guidelines for presentations during the first couple of lectures.
 * **(20%) Participation:** Much of the discovery and learning in this course will be driven by in-class discussion. Participation will be assessed by engagement during in-class discussions. Therefore, it is critical that students attend lectures. 
+
+### Paper review expectations
+* All paper reviews will be submitted via [hotcrp](https://cmu-18-847-f22.hotcrp.com/) (Create an account ASAP!)
+* We will read and review up to two research papers before each class. Each student will present two-three such papers during the course of the semester. 
+* To submit a review after logging in, click on the paper you wish to review and follow the prompts to enter your review in terms of "strengths," "weaknesses," etc. Here is the review [template](https://gist.github.com/kasikci/49e7107dfdee281d6f6450b132555550) we will use. 
+* The paper reviews allotted for each class are due on the day of the class by noon ET. 
+* Please submit your review exactly once. 
+* You may view other students' reviews after you submit your own review. Feel free to click on the "Good review" button for the reviews you like. Please refrain from clicking on the "Needs work" button for other students' reviews (you will be penalized for this). 
+* For additional information, please check the FAQ section below. 
+
+### Paper presentation expectations
+* Each student will be a part of about three paper presentations during the semester. 
+* For each presentation, one student will present a 5-10 minute summary, another student will advocate for the paper's strengths, and the third student will present critiques. 
+* When presenting the paper summary: The summary of each paper should be brief (i.e., less than 10 minutes). For example, an effective summary might include a slide for each of the following: (1) research problem motivation, (2) limitations of the state-of-the-art, (3) paper's key contributions, (4) high-level design description, (5) summary of the main result, (6) conclusion. Please include your slides under the "summary" section for the appropriate paper [here](https://docs.google.com/presentation/d/11nJrmb8Ry1lMVg4Dvm4cimhHevFLhzJGeBHfwoX6LHg/edit?usp=sharing).
+* When advocating for a paper: Create a few slides (~5-6 slides) to (1) summarize the strengths that others in the class pointed out (please include the student's name when talking about their review), (2) point out the strenghts that you particularly liked and show why these strengths are important, (3) identify how these strengths can be extended beyond the context of the paper (e.g., can aspects of the design be applied to a different problem?)
+* When critiquing a paper: Create a few slides (~5-6 slides) to (1) summarize the opportunities for improvement that others in the class pointed out (please include the student's name when talking about their review), (2) point out opportunities for improvement and show how/why these may (or may not) be deal breakers, (3) detail how you might have executed the work differently to overcome these weaknesses. 
+* All presentations will be accessible via a single google slides [link](https://docs.google.com/presentation/d/11nJrmb8Ry1lMVg4Dvm4cimhHevFLhzJGeBHfwoX6LHg/edit?usp=sharing).
+
+### Project expectations: 
+Students will work in groups of three on a semester-long, open-ended research project on a cutting-edge data center topic. Larger/smaller groups will not be approved.   
 
 ### Project milestones
 
@@ -84,7 +97,7 @@ Please submit a review for each paper on [hotcrp](https://cmu-18-847-f22.hotcrp.
 | Date      | Topic | Readings | Notes | Presenter |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Aug 29 (M) <br/> ([slides]())<br/> ([lecture]())| Introduction to Data center Computing | Introduction |[Form](https://forms.gle/hRiukLufnK5tSmHS8) due|
-| Aug 31 (W) <br/> ([lecture]()) | Introduction to Data center Computing | Introduction | Find project partners | Akshitha Sriraman |
+| Aug 31 (W) <br/> | Introduction to Data center Computing | Introduction | Find project partners | Akshitha Sriraman |
 | Sep 5 (M) | **Holiday: No Classes** |  | |
 | Sep 7 (W) | [An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems](http://www.csl.cornell.edu/~delimitrou/papers/2019.asplos.microservices.pdf) | Web application paradigms | - Submit project proposal document describing project topic (<=1 page) </br> -[Supplemental reading](https://www.nginx.com/blog/introduction-to-microservices/) | TBD |
 | Sep 12 (M) | [Profiling a Warehouse-Scale Computer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44271.pdf) | Microarchitecture analysis | | TBD |  
