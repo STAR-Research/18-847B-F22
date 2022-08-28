@@ -90,7 +90,7 @@ Please submit a review for all papers on [hotcrp](https://cmu-18-847-f22.hotcrp.
 | Sep 12 (M) | [Profiling a Warehouse-Scale Computer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44271.pdf) | Microarchitecture analysis | | TBD |  
 | Sep 14 (W) | [SoftSKU: Optimizing Server Architectures for Microservice Diversity @Scale](https://dl.acm.org/doi/10.1145/3307650.3322227) | Microarchitecture analysis | Submit project deliverables document (<=1 page) | TBD |
 | Sep 19 (M) | [A Reconfigurable Fabric for Accelerating Large-Scale Datacenter Services](http://dl.acm.org/citation.cfm?id=2665678)| Hardware acceleration | | TBD |
-| Sep 21 (W) | [https://michaeltaylor.org/papers/ASIC_Cloud_ISCA_2016_Proceedings.pdf](https://www.gwern.net/docs/cs/2021-ranganathan.pdf) | Hardware acceleration | | |
+| Sep 21 (W) | [ASIC Clouds: Specializing the Datacenter](https://michaeltaylor.org/papers/ASIC_Cloud_ISCA_2016_Proceedings.pdf) | Hardware acceleration | | |
 | Sep 26 (M) | [AsmDB: Understanding and Mitigating Front-End Stalls in Warehouse-Scale Computers](https://dl.acm.org/doi/pdf/10.1145/3307650.3322234) | Compiler/PGO | | TBD |
 | Sep 28 (W) | -[The Tail at Scale](https://cacm.acm.org/magazines/2013/2/160173-the-tail-at-scale/fulltext) </br> -[Attack of the Killer Microseconds](https://abelay.github.io/6828seminar/papers/barroso:killermicroseconds.pdf)| Tail latency, Killer microseconds | | TBD |
 | Oct 3 (M) | **MICRO Conference: No Classes** |  | |
