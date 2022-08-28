@@ -244,7 +244,7 @@ All reports will be acknowledged, documented and a determination will be made re
 
 ### FAQ:
 * **Q: May I submit a deliverable a couple of days late?** </br> A: The short answer is yes. The goal of this course is to help you learn about new topics in data center computing in a relaxed environment that promotes learning. If you are in a stressful situation and need an extra day to submit a review etc., please let the instructor know about your situation; we are happy to accommodate your needs. 
-* **Q: May I form a project group of two or four?** </br> A: No. We will have project groups of three only.
+* **Q: May I form a project group of two or four?** </br> A: Unfortunately, no. We will have project groups of three only.
 * **Q: Will I get feedback on my paper reviews?** </br> A: The TA will provide feedback on almost each paper review. The professor will provide feedback in three phases: initial, mid-point, and final. During each class, the professor will discuss paper reviews that stood out.
 * **Q: How do I start critiquing a paper?** </br> A: Everything in engineering is about the "T" word --- the "Trade-off". A good way to start is by analyzing the trade-off the paper makes. For example, to improve performance, what did the paper compromise? Power? Security? How bad can this be?
 * **Q: How long should my paper review be?** </br> A: We judge the review on its quality rather than the length. The expectation is to make a couple of solid points each for strengths, weaknesses, comments, and questions. 
