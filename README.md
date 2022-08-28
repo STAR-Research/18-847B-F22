@@ -32,9 +32,6 @@ However, it would be helpful if students have a basic understanding of systems a
 
 **Class lecture and recordings:**  MW 4:40 - 6 pm ET at WEH 5302. Class lectures will not be recorded since we have moved to in-person teaching. However, if you are unable to attend class for some reason, please let the professor know in advance; we are more than happy to accommodate your needs. 
 
-**Paper reviews:** https://cmu-18-847-f22.hotcrp.com/ (Create an account ASAP!)
-To submit a review after logging in, click on the paper you wish to review and follow the prompts to enter your review in terms of "strengths," "weaknesses," etc. The paper reviews allotted for each class are due on the day of the class by noon ET. Please submit your review exactly once. You may view other students' reviews after you submit your own review. Feel free to click on the "Good review" button for the reviews you like. Please refrain from clicking on the "Needs work" button for other students' reviews (you will be penalized for this).
-
 **Required Textbook:**  None
 
 **Suggested Reading:**  The Datacenter as a Computer
@@ -48,9 +45,12 @@ Canvas login page: We will not use canvas for this course.
 
 **Discussion Platform:**  Students enrolled in the course should have received a Slack invitation. Please contact the instructors via email if you did not receive an invite. 
 
+**Paper reviews:** https://cmu-18-847-f22.hotcrp.com/ (Create an account ASAP!)
+We will read and review up to two research papers before each class. Each student will present two-three such papers during the course of the semester. To submit a review after logging in, click on the paper you wish to review and follow the prompts to enter your review in terms of "strengths," "weaknesses," etc. Here is the review [template](https://gist.github.com/kasikci/49e7107dfdee281d6f6450b132555550) we will use. The paper reviews allotted for each class are due on the day of the class by noon ET. Please submit your review exactly once. You may view other students' reviews after you submit your own review. Feel free to click on the "Good review" button for the reviews you like. Please refrain from clicking on the "Needs work" button for other students' reviews (you will be penalized for this). For additional information, please check the FAQ section below. 
+
 **Projects:** Students will work in groups of three on a semester-long, open-ended research project on a cutting-edge data center topic. Larger/smaller groups will not be approved.   
 
-**Reading Assignments:** We will read and review up to two research papers before each class. Each student will present two-three such papers during the course of the semester. 
+**Reading Assignments:** 
 
 ### Grading Algorithm
 * **(35%) Course Project:** Students will work in teams of three on a research project on improving data center systems. Deliverables will include a proposal, mid-term presentation, final presentation, and final research paper. This assignment will provide students with the experience of performing research in the field of modern large-scale computing.
@@ -60,13 +60,13 @@ Canvas login page: We will not use canvas for this course.
 
 ### Project milestones
 
-* **(Sep 5/ASAP) Find project partners:** Create a group of three like-minded students
-* **(Jan 26) Contact instructors:** Email the instructors with your group's proposal (~2 paragraphs)
-* **(Feb 2) Finalize deliverables:** Finalize project deliverables after regular back-and-forth discussions with the instructors
-* **(March 2) First milestone:** Submit your first milestone document that defines and motivates the problem, surveys related work, forms initial hypothesis and idea, and potentially includes some preliminary result (email instructors)
-*  **(April 4) Second milestone:** Submit your second milestone document with a brief description of the idea, your design and implementation details, and a portion of your evaluation (email instructors)
-*  **(April 25) Final presentation:** Prepare a brief presentation (~10 minutes) of your project work
-*  **(April 27) Final report:** Submit a final paper on your work (similar to the papers that we read and discussed in class)
+* **(Aug 31/ASAP) Find project partners:** Create a group of three like-minded students
+* **(Sep 7, 11:59 pm ET) Submit project proposal:** Email the instructors with your group's project proposal document describing your project topic (<=1 page)
+* **(Sep 14, 11:59 pm ET) Finalize deliverables:** Finalize project deliverables after regular back-and-forth discussions with the instructors (you should have these conversations during OH, via slack, or schedule a separate time). Email the instructors with your group's project project deliverables document, describing what you will tentatively achieve for milestone 1, milestone 2, and the final report (<=1 page)
+* **(Oct 12, 11:59 pm ET) First milestone:** Submit your first milestone document that defines and motivates the problem, surveys related work, forms initial hypothesis and idea, and includes some preliminary result to show that the idea is promising (email instructors). This document should be less than 10 pages (not including references).
+*  **(Nov 14, 11:59 pm ET) Second milestone:** Submit your second milestone document with a brief description of the idea, your design and implementation details, and a portion of your evaluation (email instructors). This document should be less than 10 pages (not including references).
+*  **(Dec 7, 11:59 pm ET) Final presentation:** Prepare a brief presentation (~10 minutes) of your project work and present it with your group. Divide your presentation such that each person presents for an equal amount of time. Each member must participate in answering questions on the project. 
+*  **(Dec 14, 11:59 pm ET) Final report:** Submit a final paper on your work (similar to the papers that we read and discussed in class). This document should be less than 10 pages (not including references).
 
 ### Compute resource options for your project
 
@@ -79,7 +79,7 @@ Canvas login page: We will not use canvas for this course.
 * Please contact the instructor if none of the above computing options work for you. We will work with you to meet your needs as best as we can. 
 
 ### Schedule
-Please submit a review for all papers on [hotcrp](https://cmu-18-847-f22.hotcrp.com/). Here is the review [template](https://gist.github.com/kasikci/49e7107dfdee281d6f6450b132555550) we will use.
+Please submit a review for each paper on [hotcrp](https://cmu-18-847-f22.hotcrp.com/) by noon ET on the day of the class. Here is the review [template](https://gist.github.com/kasikci/49e7107dfdee281d6f6450b132555550) we will use.
 
 | Date      | Topic | Readings | Notes | Presenter |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -112,7 +112,7 @@ Please submit a review for all papers on [hotcrp](https://cmu-18-847-f22.hotcrp.
 | Nov 28 (M) | [Bolt: I Know What You Did Last Summer... in the Cloud](https://www.csl.cornell.edu/~delimitrou/papers/2017.asplos.bolt) | Security | [Supplemental reading](https://hovav.net/ucsd/dist/cloudsec.pdf) | TBD |
 | Nov 30 (W) | [SOL: Safe On-Node Learning in Cloud Platforms](https://www.microsoft.com/en-us/research/uploads/prod/2022/01/On-Node-Learning-ASPLOS22.pdf) | Monitoring/Telemetry | [Supplemental reading](https://www.usenix.org/node/186168) | TBD |
 | Dec 5 (M) | [Cores that don't count](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/012b01a2571a6e226259cd0c4628eb3015157d44.pdf) | Reliability | | TBD |
-| Dec 7 (W) | Agenda decided by the class |  | | TBD |
+| Dec 7 (W) | Final project presentations |  | | TBD |
 | Dec 14 (W) | Final report due |  | |  |
 
 ### Education Objectives (Relationship of Course to Program Outcomes)
@@ -231,6 +231,7 @@ All reports will be acknowledged, documented and a determination will be made re
 * Q: May I form a project group of two or four? </br> A: No. We will have project groups of three only.
 * Q: Will I get feedback on my paper reviews? </br> A: The TA will provide feedback on almost each paper review. The professor will provide feedback in three phases: initial, mid-point, and final. During each class, the professor will discuss paper reviews that stood out.
 * Q: How do I start critiquing a paper? </br> A: Everything in engineering is about the "T" word --- the "Trade-off". A good way to start is by analyzing the trade-off the paper makes. For example, to improve performance, what did the paper compromise? Power? Security? How bad can this be?
+* Q: How long should my paper review be? </br> A: We judge the review on its quality rather than the length. The expectation is to make a couple of solid points each for strengths, weaknesses, comments, and questions. 
 * Q: I feel anxious about speaking up in class. How can I still get a good participation score? </br> A: Please speak to the instructor during office hours. We are happy to accommodate your specific needs.
 * Q: Would it be possible to not present a paper I was assigned? </br> A: Unfortunately not. All paper presentation assignments are final. If you have an extenuating circumstance and have a classmate who is willing to swap a paper presentation with you, we are happy to accommodate this.
 * Q: I'm not sure how to pick my project topic. </br> A: Please look at the list of potential projects. Then, attend office hours to discuss your interests with the instructor. We will work together to find the project that is the right fit for you. 
