@@ -105,35 +105,35 @@ Please submit a review for all papers on [hotcrp](https://cmu-18-847-f22.hotcrp.
 | Date      | Topic | Readings | Notes | Presenter |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Aug 29 (M) <br/> ([slides]())<br/> ([lecture]())| Introduction to Data center Computing | Introduction |[Form](https://forms.gle/hRiukLufnK5tSmHS8) due|
-| Aug 31 (W) <br/> ([lecture]()) |  | Introduction | Find project partners | Akshitha Sriraman |
+| Aug 31 (W) <br/> ([lecture]()) | Introduction to Data center Computing | Introduction | Find project partners | Akshitha Sriraman |
 | Sep 5 (M) | **Holiday: No Classes** |  | |
-| Sep 7 (W) | | | Submit project proposal document describing project topic (<=1 page) | |
-| Sep 12 (M) | | | | |  
-| Sep 14 (W) | | | Submit project deliverables document (<=1 page) | |
-| Sep 19 (M) | | | | |
-| Sep 21 (W) | | | | |
-| Sep 26 (M) | | | | |
-| Sep 28 (W) | | | | |
+| Sep 7 (W) | [An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems](http://www.csl.cornell.edu/~delimitrou/papers/2019.asplos.microservices.pdf) | Web application paradigms | Submit project proposal document describing project topic (<=1 page) | TBD |
+| Sep 12 (M) | [Profiling a Warehouse-Scale Computer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44271.pdf) | Microarchitecture analysis | | TBD |  
+| Sep 14 (W) | [SoftSKU: Optimizing Server Architectures for Microservice Diversity @Scale](https://dl.acm.org/doi/10.1145/3307650.3322227) | Microarchitecture analysis | Submit project deliverables document (<=1 page) | TBD |
+| Sep 19 (M) | [A Reconfigurable Fabric for Accelerating Large-Scale Datacenter Services](http://dl.acm.org/citation.cfm?id=2665678)| Hardware acceleration | | TBD |
+| Sep 21 (W) | [https://michaeltaylor.org/papers/ASIC_Cloud_ISCA_2016_Proceedings.pdf](https://www.gwern.net/docs/cs/2021-ranganathan.pdf) | Hardware acceleration | | |
+| Sep 26 (M) | [AsmDB: Understanding and Mitigating Front-End Stalls in Warehouse-Scale Computers](https://dl.acm.org/doi/pdf/10.1145/3307650.3322234) | Compiler/PGO | | TBD |
+| Sep 28 (W) | -[The Tail at Scale](https://cacm.acm.org/magazines/2013/2/160173-the-tail-at-scale/fulltext) </br> -[Attack of the Killer Microseconds](https://abelay.github.io/6828seminar/papers/barroso:killermicroseconds.pdf)| Tail latency, Killer microseconds | | TBD |
 | Oct 3 (M) | **MICRO Conference: No Classes** |  | |
-| Oct 5 (W) | | | | |
-| Oct 10 (M) | | | | |
-| Oct 12 (W) | | | First project milestone due (<10 pages) | |
+| Oct 5 (W) | [The Demikernel Datapath OS Architecture for Microsecond-scale Datacenter Systems](https://www.microsoft.com/en-us/research/publication/the-demikernel-datapath-os-architecture-for-microsecond-scale-datacenter-systems/) | OS | | TBD |
+| Oct 10 (M) | [Dynamo: facebook's data center-wide power management system](https://ieeexplore.ieee.org/document/7551415)| Power/energy | | TBD |
+| Oct 12 (W) | [Resource Central: Understanding and PredictingWorkloads for Improved Resource Management inLarge Cloud Platforms](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/Resource-Central-SOSP17.pdf) | Resource management/scheduling | First project milestone due (<10 pages) | TBD |
 | Oct 17 (M) | **Fall break: No Classes** |  | |
 | Oct 19 (W) | **Fall break: No Classes** |  | |
-| Oct 24 (M) | | | | |
-| Oct 26 (W) | | | | |
-| Oct 31 (M) | | | | |
-| Nov 2 (W) | | | | |
-| Nov 7 (M) | | | | |
-| Nov 9 (W) | | | | |
-| Nov 14 (M) | | | Second project milestone due (<10 pages) | |
-| Nov 16 (W) | | | | |
-| Nov 21 (M) | | | | |
+| Oct 24 (M) | [Heracles: Improving Resource Efficiency at Scale](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43792.pdf)| Resource management/scheduling | | TBD |
+| Oct 26 (W) | [Serverless in the Wild: Characterizing and Optimizingthe Serverless Workload at a Large Cloud Provider](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/serverless-ATC20.pdf) | Resource management/scheduling | | TBD |
+| Oct 31 (M) | [Cost-Efﬁcient Overclocking in Immersion-Cooled Data-centers](https://www.microsoft.com/en-us/research/publication/cost-ef%ef%ac%81cient-overclocking-in-immersion-cooled-datacenters/) | DC cooling | | TBD |
+| Nov 2 (W) | [Chasing Carbon: The Elusive Environmental Footprint of Computing](https://arxiv.org/pdf/2011.02839.pdf) | Sustainability | | TBD |
+| Nov 7 (M) | [Network Requirements for Resource Disaggregation](https://www.usenix.org/system/files/conference/osdi16/osdi16-gao.pdf) | Resource disaggregation | | TBD |
+| Nov 9 (W) | - [Nines are not enough](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/f647d24ee7eeb338acebf1eb73a5d11b357620b0.pdf) </br> - [The Amazon Tax](https://stratechery.com/2016/the-amazon-tax/)| DC business model | | TBD |
+| Nov 14 (M) | TBD | Equity | Second project milestone due (<10 pages) | TBD |
+| Nov 16 (W) | [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](https://abelay.github.io/6828seminar/papers/hazelwood:ml.pdf) | Systems for ML | | TBD |
+| Nov 21 (M) | [Software-defined far memory in warehouse-scale computers](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/9bb06ab825a127bef4e33c488eaa659d6856225a.pdf) | ML for systems | | TBD |
 | Nov 23 (W) | **Holiday: No Classes** |  | |
-| Nov 28 (M) | | | | |
-| Nov 30 (W) | |  | |  |
-| Dec 5 (M) | |  | |  |
-| Dec 7 (W) | Agenda decided by the class |  | |  |
+| Nov 28 (M) | [Bolt: I Know What You Did Last Summer... in the Cloud](https://www.csl.cornell.edu/~delimitrou/papers/2017.asplos.bolt) | Security | | TBD |
+| Nov 30 (W) | [SOL: Safe On-Node Learning in Cloud Platforms](https://www.microsoft.com/en-us/research/uploads/prod/2022/01/On-Node-Learning-ASPLOS22.pdf) | Monitoring/Telemetry | | TBD |
+| Dec 5 (M) | [Cores that don't count](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/012b01a2571a6e226259cd0c4628eb3015157d44.pdf) | Reliability | | TBD |
+| Dec 7 (W) | Agenda decided by the class |  | | TBD |
 | Dec 14 (W) | Final report due |  | |  |
 
 ### Education Objectives (Relationship of Course to Program Outcomes)
