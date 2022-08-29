@@ -21,7 +21,7 @@ The course is a combination of lectures, paper reading and reviewing, in-class p
 
 This course is appropriate for graduate and advanced undergraduate students from ECE and CS who are interested in a vertical study of modern cloud computing and advanced data center systems. It is also appropriate for ECE and CS students who want to gain some experience with a semester-long research project on a cutting-edge modern computer systems topic. This course is especially suited for students who are more interested in open-ended discussions, are interested in learning new concepts on-the-fly, and have a curiosity to explore the unknown. 
 
-Students are expected to attend class meetings and actively participate in the discussions. Paper summaries, presentations, and class participation are a significant part of the grade. There is no formal prerequisite for this course. However, it would be helpful if students have a basic understanding of systems and architecture concepts and are comfortable with C/C++ and/or Python programming.
+Students are expected to attend class meetings and actively participate in the discussions. Paper summaries, presentations, and class participation are a significant part of the grade. 
 
 **Number of Units:**  12 	
 
