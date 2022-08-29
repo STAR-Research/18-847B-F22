@@ -54,7 +54,7 @@ However, it would be helpful if students have a basic understanding of systems a
 * All paper reviews will be submitted via [hotcrp](https://cmu-18-847-f22.hotcrp.com/) (Create an account ASAP!)
 * We will read and review up to two research papers before each class. Each student will be a part of approximately three such paper presentations during the course of the semester. 
 * To submit a review after logging in, click on the paper you wish to review and follow the prompts to enter your review in terms of "strengths," "weaknesses," etc. Here is the review [template](https://gist.github.com/kasikci/49e7107dfdee281d6f6450b132555550) we will use. 
-* The paper reviews allotted for each class are due on the day of the class by noon ET. 
+* The paper reviews allotted for each class are due on the day of the class by 11 am ET. 
 * Please submit your review exactly once. 
 * You may view other students' reviews after you submit your own review. Feel free to click on the "Good review" button for the reviews you like. Please refrain from clicking on the "Needs work" button for other students' reviews (you will be penalized for this). 
 * For additional information, please check the FAQ section below. 
@@ -95,7 +95,7 @@ Students will work in groups of three on a semester-long, open-ended research pr
 * Please contact the instructor if none of the above computing options work for you. We will work with you to meet your needs as best as we can. 
 
 ### Schedule
-Please submit a review for each paper on [hotcrp](https://cmu-18-847-f22.hotcrp.com/) by noon ET on the day of the class. Here is the review [template](https://gist.github.com/kasikci/49e7107dfdee281d6f6450b132555550) we will use.
+Please submit a review for each paper on [hotcrp](https://cmu-18-847-f22.hotcrp.com/) by 11 am ET on the day of the class. Here is the review [template](https://gist.github.com/kasikci/49e7107dfdee281d6f6450b132555550) we will use.
 
 | Date      | Topic | Readings | Notes | Presenter |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
