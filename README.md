@@ -99,7 +99,7 @@ Please submit a review for each paper on [hotcrp](https://cmu-18-847-f22.hotcrp.
 
 | Date      | Topic | Readings | Notes | Presenter |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Aug 29 (M) | Introduction to Data center Computing | Introduction |[Form](https://forms.gle/hRiukLufnK5tSmHS8) due|
+| Aug 29 (M) </br> [Lecture](https://drive.google.com/file/d/1ygzUiMs45bPwYKuM9FBot0xomolLgkRZ/view?usp=sharing)| Introduction to Data center Computing | Introduction |[Form](https://forms.gle/hRiukLufnK5tSmHS8) due|
 | Aug 31 (W) <br/> | Introduction to Data center Computing | Introduction | Find project partners | Akshitha Sriraman |
 | Sep 5 (M) | **Holiday: No Classes** |  | |
 | Sep 7 (W) | [An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems](http://www.csl.cornell.edu/~delimitrou/papers/2019.asplos.microservices.pdf) | Web application paradigms | - Submit project proposal document describing project topic (<=1 page) </br> -[Supplemental reading](https://www.nginx.com/blog/introduction-to-microservices/) | TBD |
