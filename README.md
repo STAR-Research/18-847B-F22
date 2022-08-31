@@ -5,7 +5,7 @@
 **Instructor:**  Akshitha Sriraman <br/>		
 **Office Location:**  CIC 4122  
 **Email Address:**  akshitha@cmu.edu  
-**Office Hours:**  Mondays, 3:30 - 4:30 pm ET 
+**Office Hours:**  Mondays, 1 - 2 pm ET 
 
 **Teaching Assistant:**  Balamurugan (Bala) Marimuthu <br/>
 **Email Address:**  bmarimut@andrew.cmu.edu <br/>	
