@@ -112,7 +112,7 @@ Please submit a review for each paper on [hotcrp](https://cmu-18-847-f22.hotcrp.
 | Oct 3 (M) | **MICRO Conference: No Classes** |  | |
 | Oct 5 (W) | [The Demikernel Datapath OS Architecture for Microsecond-scale Datacenter Systems](https://irenezhang.net/papers/demikernel-sosp21.pdf) | OS | [Supplemental reading](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-belay.pdf) | TBD | TBD | TBD |
 | Oct 10 (M) | [Dynamo: facebook's data center-wide power management system](https://ieeexplore.ieee.org/document/7551415)| Power/energy | | TBD | TBD | TBD |
-| Oct 12 (W) | [Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/Resource-Central-SOSP17.pdf) | Resource management/scheduling | - First project milestone due (<5 pages) </br> - [Supplemental reading](http://research.google.com/pubs/pub43438.html)| TBD | TBD | TBD |
+| Oct 12 (W) | [Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/Resource-Central-SOSP17.pdf) | Resource management/scheduling | - First project milestone due (<5 pages) </br> - [Supplemental reading](http://research.google.com/pubs/pub43438.html) </br> Guest: [Daniel Berger](https://www.microsoft.com/en-us/research/people/daberg/)| TBD | TBD | TBD |
 | Oct 17 (M) | **Fall break: No Classes** |  | |
 | Oct 19 (W) | **Fall break: No Classes** |  | |
 | Oct 24 (M) | [Heracles: Improving Resource Efficiency at Scale](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43792.pdf)| Resource management/scheduling | [Supplemental reading](http://people.ece.cornell.edu/martinez/doc/asplos19.pdf)| TBD | TBD | TBD |
@@ -126,8 +126,8 @@ Please submit a review for each paper on [hotcrp](https://cmu-18-847-f22.hotcrp.
 | Nov 21 (M) | [Software-defined far memory in warehouse-scale computers](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/9bb06ab825a127bef4e33c488eaa659d6856225a.pdf) | ML for systems | [Supplemental reading](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/CACM20-produced.pdf) | TBD | TBD | TBD |
 | Nov 23 (W) | **Holiday: No Classes** |  | |
 | Nov 28 (M) | [Bolt: I Know What You Did Last Summer... in the Cloud](https://www.csl.cornell.edu/~delimitrou/papers/2017.asplos.bolt) | Security | [Supplemental reading](https://hovav.net/ucsd/dist/cloudsec.pdf) | TBD | TBD | TBD |
-| Nov 30 (W) | [SOL: Safe On-Node Learning in Cloud Platforms](https://www.microsoft.com/en-us/research/uploads/prod/2022/01/On-Node-Learning-ASPLOS22.pdf) | Monitoring/Telemetry | [Supplemental reading](https://www.usenix.org/node/186168) | TBD | TBD | TBD |
-| Dec 5 (M) | [Cores that don't count](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/012b01a2571a6e226259cd0c4628eb3015157d44.pdf) | Reliability | | TBD | TBD | TBD |
+| Nov 30 (W) | [SOL: Safe On-Node Learning in Cloud Platforms](https://www.microsoft.com/en-us/research/uploads/prod/2022/01/On-Node-Learning-ASPLOS22.pdf) | Monitoring/Telemetry | [Supplemental reading](https://www.usenix.org/node/186168) </br> Guest: [Neeraja Yadwadkar](https://sites.utexas.edu/neeraja/)| TBD | TBD | TBD |
+| Dec 5 (M) | [Cores that don't count](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/012b01a2571a6e226259cd0c4628eb3015157d44.pdf) | Reliability | Guest: [Peter Hochschild](https://research.google/people/107517/)| TBD | TBD | TBD |
 | Dec 7 (W) | Final project presentations |  | | TBD |
 | Dec 14 (W) | Final report due |  | |  |
 
